@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "225563630629",
+    "firebase_url": "https://wave-2105c.firebaseio.com",
+    "project_id": "wave-2105c",
+    "storage_bucket": "wave-2105c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225563630629:android:acab0dca101636f553b3cc",
+        "android_client_info": {
+          "package_name": "com.rokcetappsstudio.wave"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225563630629-jvtq9n9aav62dsu7s5lc9rqff9210uji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rokcetappsstudio.wave",
+            "certificate_hash": "1f24108a7d2665b88aaa3969a8292c471b0a1a13"
+          }
+        },
+        {
+          "client_id": "225563630629-vjq4cnpgo8ctqhsqktlg0eb9v3j6o5df.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnSOLeY9uiV7z8ykGT0tPg5_mh1eKgM08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225563630629-vjq4cnpgo8ctqhsqktlg0eb9v3j6o5df.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

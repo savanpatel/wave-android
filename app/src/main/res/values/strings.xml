@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Wave</string>
+    <string name="google_sign_in_client_key">225563630629-012utl9hr916thvqek03jrunt4qdsvq1.apps.googleusercontent.com</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
